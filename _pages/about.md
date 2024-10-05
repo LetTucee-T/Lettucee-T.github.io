@@ -9,7 +9,6 @@ redirect_from:
 
 I'm a Senior Student majoring in computer science at the Chinese University of Hongkong, Shenzhen. I'm interested in computer graphics, computer vision, and I'm searching opportunities of further study.
 
-=====================================================================================================
 Basic Information:
 
 GPA:3.60/4.00 TOEFL:107 GRE:327 + 4
